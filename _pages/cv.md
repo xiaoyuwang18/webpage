@@ -17,6 +17,28 @@ Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Research Assist
 Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Research Assistant [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
 - 2012.09-2016.06: B.S., [School of Computer Science and Technology](http://scst.suda.edu.cn/), [Soochow University](http://www.suda.edu.cn/), Suzhou, Jiangsu, China.
 
+Awards & Honors
+------
+- 2018 Shenzhen Stock Exchange Scholarship
+- 2017 Proceedings of the 36th IEEE International Conference on Computer Communications (INFOCOM) Best Paper Award Candidate
+- 2017 Outstanding Postgraduate of Nanjing University
+- 2017 Tung OOCL Scholarship
+- 2016 Master's First-Class Excellence Scholarship of Nanjing University
+- 2016 Excellent Graduate of Soochow University
+- 2016 Excellent Graduation Design of Soochow University
+- 2015 CCF Outstanding Student
+- 2014 National Scholarship
+- 2014 2nd Prize in Jiangsu Province of China Undergraduate Mathematical Contest in Modeling
+- 2014 Pacemaker to Merit Student of Soochow University
+- 2013-2015 Outstanding Learning Scholarship in Soochow University (three times)
+- 2013-2015 People Comprehensive Scholarship in Soochow University (three times)
+- 2013-2015 Zhu Jingwen Scholarship in Soochow University (three times)
+- 2013-2015 Merit Student of Soochow University (three times)
+
+Service
+------
+- PC member of [The Fifth International Symposium on Sensor-Cloud Systems (SCS'19)](http://www.spaccs.org/SCS2019/
+
 <!--Work experience
 ------
 * Summer 2015: Research Assistant
@@ -74,22 +96,3 @@ Publications
 <!--Service and leadership
 ------
 * Currently signed in to 43 different slack teams-->
-
-
-Awards & Honors
-------
-- 2018 Shenzhen Stock Exchange Scholarship
-- 2017 Proceedings of the 36th IEEE International Conference on Computer Communications (INFOCOM) Best Paper Award Candidate
-- 2017 Outstanding Postgraduate of Nanjing University
-- 2017 Tung OOCL Scholarship
-- 2016 Master's First-Class Excellence Scholarship of Nanjing University
-- 2016 Excellent Graduate of Soochow University
-- 2016 Excellent Graduation Design of Soochow University
-- 2015 CCF Outstanding Student
-- 2014 National Scholarship
-- 2014 2nd Prize in Jiangsu Province of China Undergraduate Mathematical Contest in Modeling
-- 2014 Pacemaker to Merit Student of Soochow University
-- 2013-2015 Outstanding Learning Scholarship in Soochow University (three times)
-- 2013-2015 People Comprehensive Scholarship in Soochow University (three times)
-- 2013-2015 Zhu Jingwen Scholarship in Soochow University (three times)
-- 2013-2015 Merit Student of Soochow University (three times)
