@@ -11,6 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+
+**Journal Articles**
+<ol>
+{% for post in site.journalpublications reversed %}
+  {% include archive-single-pubjournal.html %}
 {% endfor %}
+</ol>
+
+
+**Conference Papers**
+<ol>
+{% for post in site.confpublications reversed %}
+  {% include archive-single-pub.html %}
+{% endfor %}
+</ol>

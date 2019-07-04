@@ -11,8 +11,8 @@ title                    : "Xiaoyu Wang"
 title_separator          : "-"
 name                     : &name "Xiaoyu Wang"
 description              : &description "Ph.D. student at Nanjing University"
-url                      : https://xiaoyuwang18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/webpage" # the subpath of your site, e.g. "/blog"
+url                      : http://localhost:4000 # https://xiaoyuwang18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # "/webpage" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoyuwang18/webpage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaoyu Wang (汪笑宇)"
+  name             : "Xiaoyu Wang"
   avatar           : "profile.png"
   bio              : "Ph.D. student at Department of Computer Science and Technology, Nanjing University"
   location         : "Nanjing, Jiangsu, China"
@@ -178,7 +178,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  journalpublications:
+    output: true
+    permalink: /:collection/:path/
+  confpublications:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -221,7 +224,15 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: journalpublications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: confpublications
     values:
       layout: single
       author_profile: true
