@@ -7,8 +7,9 @@ author: Meng Li, Haipeng Dai, <strong>Xiaoyu Wang</strong>, Rui Xia, Alex X. Liu
 place: Dallas, Texas, USA
 mydate: July 7-10, 2019
 accept_rate: 19.6%
-<!--paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 plain: '/files/bib/plainThreshold.html'
-bibtex: '/files/bib/texThreshold.txt'-->
+bibtex: '/files/bib/texThreshold.txt'
 date: 2019-07-07
 ---
+
+<!--paperurl: 'http://academicpages.github.io/files/paper2.pdf'-->

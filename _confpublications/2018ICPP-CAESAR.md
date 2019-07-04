@@ -7,8 +7,9 @@ author: Qian Liu, Haipeng Dai, Alex X. Liu, Qi Li, <strong>Xiaoyu Wang</strong>,
 place: Eugene, Oregon, USA
 mydate: August 13-16, 2018
 accept_rate: 91/313 = 29%
-<!--paperurl: 'http://academicpages.github.io/files/paper1.pdf'-->
 plain: '/files/bib/plainCAESAR.html'
 bibtex: '/files/bib/texCAESAR.txt'
 date: 2018-08-13
 ---
+
+<!--paperurl: 'http://academicpages.github.io/files/paper1.pdf'-->

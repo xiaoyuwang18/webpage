@@ -7,8 +7,10 @@ author: <strong>XiaoyuWang</strong>, Haipeng Dai, WeijunWang, Jiaqi Zheng, Guiha
 place: Eugene, Oregon, USA
 mydate: August 13-16, 2018
 accept_rate: 91/313 = 29%
-<!--paperurl: 'http://academicpages.github.io/files/paper1.pdf'-->
 plain: '/files/bib/plainHIPO.html'
 bibtex: '/files/bib/texHIPO.txt'
 date: 2018-08-13
+selected: y
 ---
+
+<!--paperurl: 'http://academicpages.github.io/files/paper1.pdf'-->

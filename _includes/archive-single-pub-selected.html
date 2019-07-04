@@ -1,0 +1,71 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+{% if post.selected %}
+	<div class="{{ include.type | default: "list" }}__item">
+	  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+		{% if include.type == "grid" and teaser %}
+		  <div class="archive__item-teaser">
+			<img src=
+			  {% if teaser contains "://" %}
+				"{{ teaser }}"
+			  {% else %}
+				"{{ teaser | prepend: "/images/" | prepend: base_path }}"
+			  {% endif %}
+			  alt="">
+		  </div>
+		{% endif %}
+
+		<p><li>
+			{% if post.sname %}
+			  [<i>{{ post.sname }}</i>]&nbsp;
+			{% endif %}
+			{% if post.author %}
+			  {{ post.author }}.&nbsp;
+			{% else %}
+			  {{ Not defined }}.&nbsp;
+			{% endif %}
+			{% if post.title %}
+			  "{{ post.title }}".&nbsp;
+			{% endif %}
+			{% if post.fname %}
+			  In <i>{{ post.fname }}</i>,&nbsp;
+			{% endif %}
+			{% if post.place %}
+			  {{ post.place }},&nbsp;
+			{% endif %}
+			{% if post.mydate %}
+			  {{ post.mydate }}.&nbsp;
+			{% endif %}
+			{% if post.accept_rate %}
+			  Acceptance rate: {{ post.accept_rate }}.&nbsp;
+			{% endif %}
+			{% if post.comment %}
+			  {{ post.comment }}.&nbsp;
+			{% endif %}
+			{% if post.paperurl %}
+			  <a href="{{ post.paperurl }}" target="_blank">[pdf]</a>
+			{% endif %}
+			(Citation:&nbsp;
+			{% if post.plain %}
+			  <a href="{{ post.plain }}" target="_blank">[Plain Text]</a>
+			{% endif %}
+			{% if post.bibtex %}
+			  <a href="{{ post.bibtex }}" target="_blank">[BibTeX]</a>
+			{% endif %})
+		</li></p>
+		
+	  </article>
+	</div>
+{% endif %}

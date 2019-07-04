@@ -11,4 +11,5 @@ paperurl: 'http://cs.nju.edu.cn/daihp/dh/RULE-INFOCOM2019.pdf'
 plain: '/files/bib/plainRULE.html'
 bibtex: '/files/bib/texRULE.txt'
 date: 2019-04-29
+selected: y
 ---

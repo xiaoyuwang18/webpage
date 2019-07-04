@@ -11,4 +11,5 @@ paperurl: 'http://cs.nju.edu.cn/daihp/dh/OmnidirectionalChargability-ICNP2016.pd
 plain: '/files/bib/plainOmniCharge.html'
 bibtex: '/files/bib/texOmniCharge.txt'
 date: 2016-11-08
+selected: y
 ---
