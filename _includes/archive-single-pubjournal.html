@@ -64,13 +64,15 @@
 		{% if post.paperurl %}
 		  <a href="{{ post.paperurl }}" target="_blank">[pdf]</a>
 		{% endif %}
-		(Citation:&nbsp;
-		{% if post.plain %}
-		  <a href="{{ post.plain }}" target="_blank">[Plain Text]</a>
-		{% endif %}
 		{% if post.bibtex %}
-		  <a href="{{ post.bibtex }}" target="_blank">[BibTeX]</a>
-		{% endif %})
+			(Citation:&nbsp;
+			{% if post.plain %}
+			  <a href="{{ post.plain }}" target="_blank">[Plain Text]</a>
+			{% endif %}
+			{% if post.bibtex %}
+			  <a href="{{ post.bibtex }}" target="_blank">[BibTeX]</a>
+			{% endif %})
+		{% endif %}
 	</li></p>
 	
   </article>
