@@ -1,7 +1,7 @@
 ---
 title: "WiTrace: Centimeter-Level Passive Gesture Tracking Using WiFi Signals"
 collection: conf_publications
-sname: SECON'19
+sname: SECON'18
 fname: Proceedings of the 15th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)
 author: Lei Wang, Ke Sun, Haipeng Dai, Alex X. Liu, and <strong>Xiaoyu Wang</strong>
 place: Hong Kong, China
