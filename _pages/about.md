@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoyu Wang &nbsp; ![Chinese name](http://localhost:4000/images/name.png)"
+title: "Xiaoyu Wang &nbsp; ![Chinese name](https://xiaoyuwang18.github.io/webpage/images/name.png)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -40,4 +40,4 @@ Selected Publications
 - [*INFOCOM'17*] Haipeng Dai, **Xiaoyu Wang**, Alex X. Liu, Huizhen Ma, and Guihai Chen. "Optimizing Wireless Charger Placement for Directional Charging". In Proceedings of the 36th Annual IEEE International Conference on Computer Communications (INFOCOM), Atlanta, GA, USA, May 1-4, 2017. Best Paper Award Candidate. Top 5 among all 292 accepted papers. Acceptance rate: 292/1395 = 20.93%. Average review score = (5+4+4)/3 = 4.33.
 - [*ICNP'16*] Haipeng Dai, **Xiaoyu Wang**, Alex X. Liu, Fengmin Zhang, Yang Zhao, and Guihai Chen. "Omnidirectional Chargability with Directional Antennas". In Proceedings of the 24th IEEE International Conference on Network Protocols (ICNP), Singapore, November 8-11, 2016. Acceptance rate: 46/229 = 20.09%.
 
-[Complete Publication List](http://localhost:4000/publications/)
+[Complete Publication List](https://xiaoyuwang18.github.io/webpage/publications/)
