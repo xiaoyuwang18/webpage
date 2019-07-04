@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaoyu Wang"
+title                    : "Welcome to Xiaoyu Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Xiaoyu Wang"
 description              : &description "Ph.D. student at Nanjing University"
