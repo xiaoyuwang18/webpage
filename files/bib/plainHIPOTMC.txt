@@ -1,4 +1,0 @@
-X. Wang et al., "Practical Heterogeneous Wireless Charger Placement with Obstacles," in IEEE Transactions on Mobile Computing.
-doi: 10.1109/TMC.2019.2916384
-keywords: {Wireless sensor networks;Wireless communication;Approximation algorithms;Partitioning algorithms;Mobile computing;Shape;Sensors;Charger placement;Heterogeneity;Obstacles},
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8714083&isnumber=4358975

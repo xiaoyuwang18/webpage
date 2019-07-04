@@ -7,8 +7,8 @@ author: Weijun Wang, Haipeng Dai, Chao Dong, Xiao Cheng, <strong>Xiaoyu Wang</st
 place: Paris, France
 mydate: April 29-May 2, 2019
 accept_rate: 288/1464 = 19.7%
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-plain: '/files/bib/plainPANDA.txt'
+paperurl: 'http://cs.nju.edu.cn/daihp/dh/PANDA-INFOCOM2019.pdf'
+plain: '/files/bib/plainPANDA.html'
 bibtex: '/files/bib/texPANDA.txt'
 date: 2019-04-29
 ---

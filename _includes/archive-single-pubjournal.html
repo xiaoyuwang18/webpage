@@ -49,11 +49,14 @@
 		  {% if post.pages %}
 		    pages {{ post.accept_rate }},&nbsp;
 		  {% endif %}
+		  {% if post.mydate %}
+		    {{ post.mydate }},&nbsp;
+		  {% endif %}
 		{% else %}
+		  {% if post.mydate %}
+		    {{ post.mydate }},&nbsp;
+		  {% endif %}
 		  Accepted.&nbsp;
-		{% endif %}
-		{% if post.mydate %}
-		  {{ post.mydate }},&nbsp;
 		{% endif %}
 		{% if post.comment %}
 		  {{ post.comment }}.&nbsp;

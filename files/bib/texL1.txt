@@ -1,0 +1,12 @@
+@INPROCEEDINGS{7372162, 
+author={X. {Wang} and Z. {Zhang} and Y. {Tang} and W. {Jiang} and F. {Li}}, 
+booktitle={2015 IEEE 27th International Conference on Tools with Artificial Intelligence (ICTAI)}, 
+title={L1-Norm Driven Semi-supervised Local Discriminant Projection for Robust Image Representation}, 
+year={2015}, 
+volume={}, 
+number={}, 
+pages={391-397}, 
+keywords={feature extraction;image representation;iterative methods;matrix algebra;L1-norm driven semisupervised local discriminant projection;robust image representation;S2LDP-L1;robust dimensionality reduction;image representation;feature learning;within-class divergence;between-class divergence;feature reduction;feature representation;scatter matrices;pairwise similarities;iterative approach;neighborhood preserving orthogonal projection;feature extraction;label propagation model;Robustness;Mathematical model;Feature extraction;Training;Linear programming;Matrices;Data mining;Semi-supervised learning;local discriminant projection;L1-norm;robust image representation}, 
+doi={10.1109/ICTAI.2015.66}, 
+ISSN={1082-3409}, 
+month={Nov},}

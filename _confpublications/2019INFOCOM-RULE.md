@@ -7,8 +7,8 @@ author: <strong>Xiaoyu Wang</strong>, Haipeng Dai, He Huang, Yunhuai Liu, Guihai
 place: Paris, France
 mydate: April 29-May 2, 2019
 accept_rate: 288/1464 = 19.7%
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-plain: '/files/bib/plainRULE.txt'
+paperurl: 'http://cs.nju.edu.cn/daihp/dh/RULE-INFOCOM2019.pdf'
+plain: '/files/bib/plainRULE.html'
 bibtex: '/files/bib/texRULE.txt'
 date: 2019-04-29
 ---

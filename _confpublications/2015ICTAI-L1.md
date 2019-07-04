@@ -7,8 +7,8 @@ author: <strong>Xiaoyu Wang</strong>, Zhao Zhang, Yu Tang, Weiming Jiang, and Fa
 place: Paris, France
 mydate: November 9-11, 2015
 accept_rate: 30%
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-plain: '/files/bib/plainL1.txt'
+<!--paperurl: 'http://academicpages.github.io/files/paper1.pdf'-->
+plain: '/files/bib/plainL1.html'
 bibtex: '/files/bib/texL1.txt'
 date: 2015-11-09
 ---

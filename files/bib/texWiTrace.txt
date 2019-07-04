@@ -1,0 +1,12 @@
+@INPROCEEDINGS{8397120, 
+author={L. {Wang} and K. {Sun} and H. {Dai} and A. X. {Liu} and X. {Wang}}, 
+booktitle={2018 15th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)}, 
+title={WiTrace: Centimeter-Level Passive Gesture Tracking Using WiFi Signals}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={1-9}, 
+keywords={gesture recognition;human computer interaction;Kalman filters;stochastic processes;wireless LAN;centimeter-level passive gesture tracking;WiFi signals;basic Human-Computer Interaction mechanism;gesture recognition;CSI based device-free gesture tracking system;composite signals;CSI based scheme;high precision gesture tracking;WiFi signal based systems;WiTrace;Continuous Wiener Process Acceleration model;1D tracking;2D tracking;Kalman filter;Tracking;Radar tracking;Wireless fidelity;Phase measurement;Two dimensional displays;Gesture recognition;Wireless communication}, 
+doi={10.1109/SAHCN.2018.8397120}, 
+ISSN={2155-5494}, 
+month={June},}

@@ -7,8 +7,8 @@ author: Haipeng Dai, <strong>Xiaoyu Wang</strong>, Alex X. Liu, Fengmin Zhang, Y
 place: Singapore
 mydate: November 8-11, 2016
 accept_rate: 46/229 = 20.09%
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-plain: '/files/bib/plainOmniCharge.txt'
+paperurl: 'http://cs.nju.edu.cn/daihp/dh/OmnidirectionalChargability-ICNP2016.pdf'
+plain: '/files/bib/plainOmniCharge.html'
 bibtex: '/files/bib/texOmniCharge.txt'
 date: 2016-11-08
 ---

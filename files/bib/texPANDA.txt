@@ -1,0 +1,12 @@
+@INPROCEEDINGS{8737545, 
+author={W. {Wang} and H. {Dai} and C. {Dong} and X. {Cheng} and X. {Wang} and G. {Chen} and W. {Dou}}, 
+booktitle={IEEE INFOCOM 2019 - IEEE Conference on Computer Communications}, 
+title={PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={1198-1206}, 
+keywords={approximation theory;autonomous aerial vehicles;computational complexity;graph theory;greedy algorithms;matrix algebra;mobile robots;object detection;optimisation;robot vision;stereo image processing;PANDA;directional coverage utility;3D directional coverage model;dominating coverage set extraction method;placement of unmanned aerial vehicles achieving 3D directional cover age;cameras;matroid constraint;greedy algorithm;monotone submodular function maximization;Cameras;Three-dimensional displays;Solid modeling;Monitoring;Mathematical model;Two dimensional displays;Unmanned aerial vehicles}, 
+doi={10.1109/INFOCOM.2019.8737545}, 
+ISSN={2641-9874}, 
+month={April},}

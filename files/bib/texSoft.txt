@@ -1,0 +1,19 @@
+@InProceedings{10.1007/978-3-319-46672-9_50,
+author="Wang, Xiaoyu
+and Zhang, Zhao
+and Zhang, Yan",
+editor="Hirose, Akira
+and Ozawa, Seiichi
+and Doya, Kenji
+and Ikeda, Kazushi
+and Lee, Minho
+and Liu, Derong",
+title="Robust Soft Semi-supervised Discriminant Projection for Feature Learning",
+booktitle="Neural Information Processing",
+year="2016",
+publisher="Springer International Publishing",
+address="Cham",
+pages="445--453",
+abstract="Image feature extraction and noise/outlier processing has received more and more attention. In this paper, we first take the full use of labeled and unlabeled samples, which leads to a semi-supervised model. Based on the soft label, we combine unlabeled samples with their predicted labels so that all the samples have their own soft labels. Our ratio based model maximizes the soft between-class scatter, as well as minimizes the soft within-class scatter plus a neighborhood preserving item, so that our approach can explicitly extract discriminant and locality preserving features. Further, to make the result be more robust to outliers, all the distance metrics are configured as L1-norm instead of L2-norm. An effective iterative method is taken to solve the optimal function. Finally, we conduct simulation experiments on CASIA-HWDB1.1 and MNIST handwriting digits datasets. The results verified the effectiveness of our approach compared with other related methods.",
+isbn="978-3-319-46672-9"
+}

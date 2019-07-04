@@ -1,0 +1,12 @@
+@INPROCEEDINGS{8057017, 
+author={H. {Dai} and X. {Wang} and A. X. {Liu} and H. {Ma} and G. {Chen}}, 
+booktitle={IEEE INFOCOM 2017 - IEEE Conference on Computer Communications}, 
+title={Optimizing wireless charger placement for directional charging}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={1-9}, 
+keywords={approximation theory;computational complexity;greedy algorithms;inductive power transmission;optimisation;set theory;¦Å approximation algorithm;Dominating Coverage Set extraction method;directional charging;Wireless Power Transfer technology;reliability;wireless charger placement and optimized charging utility;wireless charger PLOT;nonlinear charging power approximation;matroid constraint;monotone submodular function;Wireless communication;Wireless sensor networks;Approximation algorithms;Conferences;Greedy algorithms;Performance evaluation;Reliability}, 
+doi={10.1109/INFOCOM.2017.8057017}, 
+ISSN={}, 
+month={May},}

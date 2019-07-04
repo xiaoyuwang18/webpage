@@ -1,0 +1,12 @@
+@INPROCEEDINGS{7784435, 
+author={H. {Dai} and {Xiaoyu Wang} and A. X. {Liu} and {Fengmin Zhang} and {Yang Zhao} and {Guihai Chen}}, 
+booktitle={2016 IEEE 24th International Conference on Network Protocols (ICNP)}, 
+title={Omnidirectional chargability with directional antennas}, 
+year={2016}, 
+volume={}, 
+number={}, 
+pages={1-10}, 
+keywords={approximation theory;inductive power transmission;omnidirectional antennas;search problems;telecommunication network reliability;omnidirectional chargability;directional antennas;wireless power transfer;WPT;reliability;omnidirectional charging;directional chargers;piecewise constant approximation;area discretization techniques;probability;fast detection algorithm;triangular lattices;search space;approximate charger power;Wireless sensor networks;Wireless communication;Directional antennas;Adaptation models;Joining processes;Conferences;Protocols}, 
+doi={10.1109/ICNP.2016.7784435}, 
+ISSN={}, 
+month={Nov},}

@@ -9,7 +9,7 @@ volume: 26
 number: 4
 pages: 1865-1878
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-plain: '/files/bib/plainPLOTTON.txt'
+plain: '/files/bib/plainPLOTTON.html'
 bibtex: '/files/bib/texPLOTTON.txt'
 date: 2018-08-01
 ---

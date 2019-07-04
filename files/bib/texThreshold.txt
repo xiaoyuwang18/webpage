@@ -1,0 +1,12 @@
+@INPROCEEDINGS{8737628, 
+author={X. {Wang} and H. {Dai} and H. {Huang} and Y. {Liu} and G. {Chen} and W. {Dou}}, 
+booktitle={IEEE INFOCOM 2019 - IEEE Conference on Computer Communications}, 
+title={Robust Scheduling for Wireless Charger Networks}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={2323-2331}, 
+keywords={Wireless communication;Random variables;Wireless sensor networks;Approximation algorithms;Two dimensional displays;Approximation error;Vehicle dynamics}, 
+doi={10.1109/INFOCOM.2019.8737628}, 
+ISSN={2641-9874}, 
+month={April},}

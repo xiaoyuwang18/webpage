@@ -7,8 +7,8 @@ author: <strong>XiaoyuWang</strong>, Zhao Zhang, and Yan Zhang
 place: Kyoto, Japan
 mydate: October 16-21, 2016
 accept_rate: 296/431 = 68.7%
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-plain: '/files/bib/plainSoft.txt'
+<!--paperurl: 'http://academicpages.github.io/files/paper1.pdf'-->
+plain: '/files/bib/plainSoft.html'
 bibtex: '/files/bib/texSoft.txt'
 date: 2016-10-16
 ---
