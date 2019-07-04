@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Xiaoyu Wang &nbsp; ![Chinese name](https://xiaoyuwang18.github.io/images/name.png)"
+title: "Welcome to Xiaoyu Wang's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Xiaoyu Wang &nbsp; ![Chinese name](https://xiaoyuwang18.github.io/images/name.png)
+======
 
 Contact
 ------
