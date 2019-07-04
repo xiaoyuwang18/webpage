@@ -40,9 +40,24 @@ Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Research Assist
 
 Publications
 ------
-  <ul>{% for post in site.publications %}
+  <!--<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
+  
+  **Journal Articles**
+  <ol>
+  {% for post in site.journalpublications reversed %}
+    {% include archive-single-pubjournal.html %}
+  {% endfor %}
+  </ol>
+
+
+  **Conference Papers**
+  <ol>
+  {% for post in site.confpublications reversed %}
+    {% include archive-single-pub.html %}
+  {% endfor %}
+  </ol>
   
 <!--Talks
 ------
