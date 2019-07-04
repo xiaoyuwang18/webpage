@@ -37,7 +37,7 @@ Awards & Honors
 
 Service
 ------
-- PC member of [The Fifth International Symposium on Sensor-Cloud Systems (SCS'19)](http://www.spaccs.org/SCS2019/
+- PC member of [The Fifth International Symposium on Sensor-Cloud Systems (SCS'19)](http://www.spaccs.org/SCS2019/)
 
 <!--Work experience
 ------
