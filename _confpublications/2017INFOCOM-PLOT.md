@@ -9,7 +9,7 @@ mydate: May 1-4, 2017
 accept_rate: 292/1395 = 20.93%
 plain: '/files/bib/plainPLOT.html'
 bibtex: '/files/bib/texPLOT.txt'
-comment: 'Best Paper Award Candidate. Top 5 among all 292 accepted papers'
+comment: 'Best Paper Award Candidate! (Top 5 among all 292 accepted papers)'
 date: 2017-05-01
 selected: y
 ---

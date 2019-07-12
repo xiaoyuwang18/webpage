@@ -51,7 +51,7 @@
 		  Acceptance rate: {{ post.accept_rate }}.&nbsp;
 		{% endif %}
 		{% if post.comment %}
-		  {{ post.comment }}.&nbsp;
+		  <font color="red">{{ post.comment }}</font>&nbsp;
 		{% endif %}
 		{% if post.paperurl %}
 		  <a href="{{ post.paperurl }}" target="_blank">[pdf]</a>

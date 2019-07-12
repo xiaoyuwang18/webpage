@@ -29,7 +29,7 @@
 
 		<p><li>
 			{% if post.sname %}
-			  [<i>{{ post.sname }}</i>]&nbsp;
+			  [<strong>{{ post.sname }}</strong>]&nbsp;
 			{% endif %}
 			{% if post.author %}
 			  {{ post.author }}.&nbsp;
@@ -60,7 +60,7 @@
 			  Accepted.&nbsp;
 			{% endif %}
 			{% if post.comment %}
-			  {{ post.comment }}.&nbsp;
+			  <font color="red">{{ post.comment }}</font>&nbsp;
 			{% endif %}
 			{% if post.paperurl %}
 			  <a href="{{ post.paperurl }}" target="_blank">[pdf]</a>
