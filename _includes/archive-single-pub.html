@@ -28,36 +28,36 @@
 
 	<p><li>
 		{% if post.sname %}
-		  <font color="#A30000">[{{ post.sname }}]</font>&nbsp;
+		  <font color="#A30000">[{{ post.sname }}]</font>
 		{% endif %}
 		{% if post.author %}
-		  {{ post.author }}.&nbsp;
+		  {{ post.author }}.
 		{% else %}
-		  {{ Not defined }}.&nbsp;
+		  {{ Not defined }}.
 		{% endif %}
 		{% if post.title %}
-		  "{{ post.title }}".&nbsp;
+		  "{{ post.title }}".
 		{% endif %}
 		{% if post.fname %}
-		  In <i>{{ post.fname }}</i>,&nbsp;
+		  In <i>{{ post.fname }}</i>,
 		{% endif %}
 		{% if post.place %}
-		  {{ post.place }},&nbsp;
+		  {{ post.place }},
 		{% endif %}
 		{% if post.mydate %}
-		  {{ post.mydate }}.&nbsp;
+		  {{ post.mydate }}.
 		{% endif %}
 		{% if post.accept_rate %}
-		  Acceptance rate: {{ post.accept_rate }}.&nbsp;
+		  Acceptance rate: {{ post.accept_rate }}.
 		{% endif %}
 		{% if post.comment %}
-		  <font color="#FF0000">{{ post.comment }}</font>&nbsp;
+		  <font color="#FF0000">{{ post.comment }}</font>
 		{% endif %}
 		{% if post.paperurl %}
 		  <a href="{{ post.paperurl }}" target="_blank">[pdf]</a>
 		{% endif %}
 		{% if post.bibtex %}
-			(Citation:&nbsp;
+			(Citation:
 			{% if post.plain %}
 			  <a href="{{ post.plain }}" target="_blank">[Plain Text]</a>
 			{% endif %}
