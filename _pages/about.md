@@ -33,7 +33,7 @@ Selected Publications
 **Journal Articles**
   <ol>
   {% for post in site.journalpublications reversed %}
-    {% include archive-single-pubjournal-selected.html %}
+    {% include archive-single-pub-selected.html %}
   {% endfor %}
   </ol>
 

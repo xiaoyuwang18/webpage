@@ -1,6 +1,6 @@
 ---
 title: "Heterogeneous Wireless Charger Placement with Obstacles"
-collection: conf_publications
+collection: confpublications
 sname: ICPP'18
 fname: Proceedings of the 47th International Conference on Parallel Processing (ICPP)
 author: <strong>Xiaoyu Wang</strong>, Haipeng Dai, Weijun Wang, Jiaqi Zheng, Guihai Chen, Wanchun Dou, and Xiaobing Wu

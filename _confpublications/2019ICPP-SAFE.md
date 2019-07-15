@@ -1,6 +1,6 @@
 ---
 title: "SAFE: Service Availability via Failure Elimination through VNF Scaling"
-collection: conf_publications
+collection: confpublications
 sname: ICPP'19
 fname: Proceedings of the 48th International Conference on Parallel Processing (ICPP)
 author: Rui Xia, Haipeng Dai, Jiaqi Zheng, Rong Gu, <strong>Xiaoyu Wang</strong>, and Guihai Chen

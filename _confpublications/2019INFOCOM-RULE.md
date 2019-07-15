@@ -1,6 +1,6 @@
 ---
 title: "Robust Scheduling for Wireless Charger Networks"
-collection: conf_publications
+collection: confpublications
 sname: INFOCOM'19
 fname: Proceedings of the 38th Annual IEEE International Conference on Computer Communications (INFOCOM)
 author: <strong>Xiaoyu Wang</strong>, Haipeng Dai, He Huang, Yunhuai Liu, Guihai Chen, and Wanchun Dou

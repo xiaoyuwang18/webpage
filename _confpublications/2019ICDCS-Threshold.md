@@ -1,6 +1,6 @@
 ---
 title: "Thresholded Monitoring in Distributed Data Streams"
-collection: conf_publications
+collection: confpublications
 sname: ICDCS'19
 fname: Proceedings of the 39th IEEE International Conference on Distributed Computing (ICDCS)
 author: Meng Li, Haipeng Dai, <strong>Xiaoyu Wang</strong>, Rui Xia, Alex X. Liu, and Guihai Chen

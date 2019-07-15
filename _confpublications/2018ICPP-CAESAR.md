@@ -1,6 +1,6 @@
 ---
 title: "Cache Assisted Randomized Sharing Counters in Network Measurement"
-collection: conf_publications
+collection: confpublications
 sname: ICPP'18
 fname: Proceedings of the 47th International Conference on Parallel Processing (ICPP)
 author: Qian Liu, Haipeng Dai, Alex X. Liu, Qi Li, <strong>Xiaoyu Wang</strong>, and Jiaqi Zheng

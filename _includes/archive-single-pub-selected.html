@@ -29,7 +29,7 @@
 
 		<p><li>
 			{% if post.sname %}
-			  <font color="#3333B2">[{{ post.sname }}]</font>
+			  [<font color="#CE4337">{{ post.sname }}</font>]
 			{% endif %}
 			{% if post.author %}
 			  {{ post.author }}.
@@ -39,20 +39,43 @@
 			{% if post.title %}
 			  "{{ post.title }}".
 			{% endif %}
-			{% if post.fname %}
-			  In <i>{{ post.fname }}</i>,
-			{% endif %}
-			{% if post.place %}
-			  {{ post.place }},
-			{% endif %}
-			{% if post.mydate %}
-			  {{ post.mydate }}.
-			{% endif %}
-			{% if post.accept_rate %}
-			  Acceptance rate: {{ post.accept_rate }}.
+			{% if post.collection == "confpublications" %}
+				{% if post.fname %}
+					In <i>{{ post.fname }}</i>,
+				{% endif %}
+				{% if post.place %}
+				  {{ post.place }},
+				{% endif %}
+				{% if post.mydate %}
+				  {{ post.mydate }}.
+				{% endif %}
+				{% if post.accept_rate %}
+				  Acceptance rate: {{ post.accept_rate }}.
+				{% endif %}
+			{% else %}
+				{% if post.fname %}
+					<i>{{ post.fname }}</i>,
+				{% endif %}
+				{% if post.volume %}
+					Vol. {{ post.volume }},
+					{% if post.number %}
+						No. {{ post.number }},
+					{% endif %}
+					{% if post.pages %}
+						pages {{ post.pages }},
+					{% endif %}
+					{% if post.mydate %}
+						{{ post.mydate }}.
+					{% endif %}
+				{% else %}
+					{% if post.mydate %}
+						{{ post.mydate }}.
+					{% endif %}
+					Accepted.
+				{% endif %}
 			{% endif %}
 			{% if post.comment %}
-			  <font color="#FF0000">{{ post.comment }}</font>
+			  <font color="#CE4337">{{ post.comment }}</font>
 			{% endif %}
 			{% if post.paperurl %}
 			  <a href="{{ post.paperurl }}" target="_blank">[pdf]</a>
@@ -60,10 +83,10 @@
 			{% if post.bibtex %}
 				(Citation:
 				{% if post.plain %}
-					<a href="{{ post.plain }}" target="_blank">[Plain Text]</a>
+				  <a href="{{ post.plain }}" target="_blank">[Plain Text]</a>
 				{% endif %}
 				{% if post.bibtex %}
-					<a href="{{ post.bibtex }}" target="_blank">[BibTeX]</a>
+				  <a href="{{ post.bibtex }}" target="_blank">[BibTeX]</a>
 				{% endif %})
 			{% endif %}
 		</li></p>

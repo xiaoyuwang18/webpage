@@ -1,6 +1,6 @@
 ---
 title: "PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage"
-collection: conf_publications
+collection: confpublications
 sname: INFOCOM'19
 fname: Proceedings of the 38th Annual IEEE International Conference on Computer Communications (INFOCOM)
 author: Weijun Wang, Haipeng Dai, Chao Dong, Xiao Cheng, <strong>Xiaoyu Wang</strong>, Guihai Chen, and Wanchun Dou

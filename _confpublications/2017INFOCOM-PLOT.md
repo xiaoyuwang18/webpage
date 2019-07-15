@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Wireless Charger Placement for Directional Charging"
-collection: conf_publications
+collection: confpublications
 sname: INFOCOM'17
 fname: Proceedings of the 36th Annual IEEE International Conference on Computer Communications (INFOCOM)
 author: Haipeng Dai, <strong>Xiaoyu Wang</strong>, Alex X. Liu, Huizhen Ma, and Guihai Chen

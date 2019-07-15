@@ -73,7 +73,7 @@ Publications
   **Journal Articles**
   <ol>
   {% for post in site.journalpublications reversed %}
-    {% include archive-single-pubjournal.html %}
+    {% include archive-single-pub.html %}
   {% endfor %}
   </ol>
 
