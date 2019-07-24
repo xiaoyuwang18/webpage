@@ -42,6 +42,7 @@ Service
 * Reviewer:
 	* IEEE Access
 	* International Journal of Communications Systems (IJCS)
+	* Sensors
 
 <!--Work experience
 ------
