@@ -12,13 +12,15 @@ redirect_from:
 Education
 ------
 - 2018.09-Present: Ph.D. candidate (successive master-doctor program), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
-Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Research Assistant [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
+Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
 - 2016.09-2018.06: M.S. (without entrance examination), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
-Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Research Assistant [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
+Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
 - 2012.09-2016.06: B.S., [School of Computer Science and Technology](http://scst.suda.edu.cn/), [Soochow University](http://www.suda.edu.cn/), Suzhou, Jiangsu, China.
 
 Awards & Honors
 ------
+- 2019 Nantional Scholarship for Doctoral Students
+- 2019 Outstanding Postgraduate of Nanjing University
 - 2018 Shenzhen Stock Exchange Scholarship
 - 2017 Proceedings of the 36th IEEE International Conference on Computer Communications (INFOCOM) Best Paper Award Candidate
 - 2017 Outstanding Postgraduate of Nanjing University
@@ -27,7 +29,7 @@ Awards & Honors
 - 2016 Excellent Graduate of Soochow University
 - 2016 Excellent Graduation Design of Soochow University
 - 2015 CCF Outstanding Student
-- 2014 National Scholarship
+- 2014 National Scholarship for Undergraduate Students
 - 2014 2nd Prize in Jiangsu Province of China Undergraduate Mathematical Contest in Modeling
 - 2014 Pacemaker to Merit Student of Soochow University
 - 2013-2015 Outstanding Learning Scholarship in Soochow University (three times)

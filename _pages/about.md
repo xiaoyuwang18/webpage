@@ -19,9 +19,9 @@ Nanjing, Jiangsu 210023, China
 Biography
 ------
 - 2018.09-Present: Ph.D. candidate (successive master-doctor program), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
-Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Research Assistant [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
+Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
 - 2016.09-2018.06: M.S. (without entrance examination), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
-Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Research Assistant [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
+Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
 - 2012.09-2016.06: B.S., [School of Computer Science and Technology](http://scst.suda.edu.cn/), [Soochow University](http://www.suda.edu.cn/), Suzhou, Jiangsu, China.
 
 Research Interests
