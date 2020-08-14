@@ -27,7 +27,7 @@ Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Profe
 
 Research Interests
 ------
-Wireless sensor networks, wireless networks, network measurement.
+Wireless sensor networks, wireless networks, network measurement, machine learning.
 
 Selected Publications
 ------
