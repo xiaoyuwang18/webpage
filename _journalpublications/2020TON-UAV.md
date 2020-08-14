@@ -4,7 +4,10 @@ collection: journalpublications
 sname: TON
 fname: IEEE/ACM Transactions on Networking (TON)
 author: Weijun Wang, Haipeng Dai, Chao Dong, Xiao Cheng, <strong>Xiaoyu Wang</strong>, Panlong Yang, and Guihai Chen
-mydate: 2020
+mydate: Apr. 2020
+volume: 28
+number: 2
+pages: 888-901
 date: 2020-02-11
 ---
 
