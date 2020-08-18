@@ -2,7 +2,7 @@
 title: "Placing Wireless Chargers with Limited Mobility"
 collection: confpublications
 sname: INFOCOM'20
-fname: Proceedings of the 38th Annual IEEE International Conference on Computer Communications (INFOCOM)
+fname: Proceedings of the 39th Annual IEEE International Conference on Computer Communications (INFOCOM)
 author: Haipeng Dai, Chaofeng Wu, <strong>Xiaoyu Wang</strong>, Wanchun Dou, and Yunhuai Liu
 place: Toronto, Canada
 mydate: July 6-9, 2020
