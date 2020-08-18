@@ -20,7 +20,7 @@ Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Profe
 
 Awards & Honors
 ------
-- 2019 Nantional Scholarship for Doctoral Students
+- 2019 National Scholarship for Doctoral Students
 - 2019 Outstanding Postgraduate of Nanjing University
 - 2018 Shenzhen Stock Exchange Scholarship
 - 2017 Proceedings of the 36th IEEE International Conference on Computer Communications (INFOCOM) Best Paper Award Candidate
