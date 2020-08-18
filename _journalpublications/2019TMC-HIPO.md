@@ -10,7 +10,7 @@ number: 8
 pages: 1910-1927
 plain: '/files/bib/plainHIPOTMC.html'
 bibtex: '/files/bib/texHIPOTMC.txt'
-date: 2019-08-01
+date: 2020-08-01
 selected: y
 ---
 
