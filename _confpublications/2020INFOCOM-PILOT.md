@@ -4,7 +4,7 @@ collection: confpublications
 sname: INFOCOM'20
 fname: Proceedings of the 39th Annual IEEE International Conference on Computer Communications (INFOCOM)
 author: Haipeng Dai, Chaofeng Wu, <strong>Xiaoyu Wang</strong>, Wanchun Dou, and Yunhuai Liu
-place: Toronto, Canada
+place: virtual conference
 mydate: July 6-9, 2020
 accept_rate: 268/1354 = 19.8%
 date: 2019-12-06
