@@ -41,7 +41,7 @@ Awards & Honors
 Service
 ------
 * PC member:
-	* [The Fifth International Symposium on Sensor-Cloud Systems (SCS'19)](http://www.spaccs.org/SCS2019/)
+	* International Symposium on Sensor-Cloud Systems ([SCS'19](http://www.spaccs.org/SCS2019/), [SCS'20](http://www.spaccs.org/SCS2020/))]
 * Reviewer:
 	* IEEE Access
 	* International Journal of Communications Systems (IJCS)
