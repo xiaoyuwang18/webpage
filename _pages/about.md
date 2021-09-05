@@ -10,15 +10,16 @@ redirect_from:
 
 Contact
 ------
-xiaoyuwang18@smail.nju.edu.cn
+xywang21@suda.edu.cn
 
-Nanjing University Xianlin Campus,  
-163 Xianlin Avenue, Qixia District,  
-Nanjing, Jiangsu 210023, China
+Soochow University,  
+333 East Ganjiang Road, Gusu District,  
+Suzhou, Jiangsu 215006, China
 
 Biography
 ------
-- 2018.09-Present: Ph.D. candidate (successive master-doctor program), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
+- 2021.07-Present: Lecturer, [School of Computer Science and Technology](http://scst.suda.edu.cn/), [Soochow University](http://www.suda.edu.cn/), Suzhou, Jiangsu, China
+- 2018.09-2021.06: Ph.D. candidate (successive master-doctor program), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
 Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
 	- 2019.11-2020.11: Visiting scholar in Unversity of Minnesota, Twin Cities, USA (under the grant of China Scholarship Council (CSC))
 - 2016.09-2018.06: M.S. (without entrance examination), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
@@ -27,7 +28,7 @@ Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Profe
 
 Research Interests
 ------
-Wireless sensor networks, wireless networks, network measurement, machine learning.
+Wireless charging networks, wireless networks, network measurement.
 
 Selected Publications
 ------

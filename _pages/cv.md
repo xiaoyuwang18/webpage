@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ------
-- 2018.09-Present: Ph.D. candidate (successive master-doctor program), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
+- 2021.07-Present: Lecturer, [School of Computer Science and Technology](http://scst.suda.edu.cn/), [Soochow University](http://www.suda.edu.cn/), Suzhou, Jiangsu, China
+- 2018.09-2021.06: Ph.D. candidate (successive master-doctor program), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
 Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
 	- 2019.11-2020.11: Visiting scholar in Unversity of Minnesota, Twin Cities, USA (under the grant of China Scholarship Council (CSC))
 - 2016.09-2018.06: M.S. (without entrance examination), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
@@ -20,6 +21,7 @@ Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Profe
 
 Awards & Honors
 ------
+- 2021 Excellent Graduate of Nanjing University
 - 2019 National Scholarship for Doctoral Students
 - 2019 Outstanding Postgraduate of Nanjing University
 - 2018 Shenzhen Stock Exchange Scholarship
@@ -41,8 +43,10 @@ Awards & Honors
 Service
 ------
 * PC member:
+	* IEEE International Conference on Parallel and Distributed Systems ([ICPADS'21](http://ieee-icpads.net/2021/))
 	* International Symposium on Sensor-Cloud Systems ([SCS'19](http://www.spaccs.org/SCS2019/), [SCS'20](http://www.spaccs.org/SCS2020/))
 * Reviewer:
+	* ACM Transactions on Sensor Networks (TOSN)
 	* IEEE Access
 	* International Journal of Communications Systems (IJCS)
 	* Sensors
