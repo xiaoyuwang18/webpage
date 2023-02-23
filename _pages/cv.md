@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-- Work Experience
+Work Experience
 ------
 - 2021.07-Present: Lecturer, [School of Computer Science and Technology](http://scst.suda.edu.cn/), [Soochow University](http://www.suda.edu.cn/), Suzhou, Jiangsu, China
 
-- Education
+Education
 ------
 - 2018.09-2021.06: Ph.D. candidate (successive master-doctor program), [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
 Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Assosiate Professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/).
