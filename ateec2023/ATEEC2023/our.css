@@ -1,0 +1,57 @@
+.track {
+	font-style: italic;
+	margin-top: 4px;
+	margin-bottom: 10px;
+}
+
+.add-margin {
+	margin-left: 20px;
+}
+
+.track-chair-item {
+	width: 50%;
+	height: 50%;
+}
+
+.row-add-margin {
+	margin: 4px 0;
+}
+
+
+.blue-href:link {
+
+	color:#0055ff;   
+	text-decoration:underline;
+
+}
+
+.track-chair {
+	color:#404041;
+	font-weight: 100;
+	font-family:"arial";
+	margin-bottom: 5px;
+}
+
+.track-b {
+	color:#404041;
+	font-weight: bold;
+	font-family:"monospace";
+}
+
+.track-li {
+	font-family:"monospace";
+}
+
+.bottom-logos {
+	width: 100%;
+	background-color: rgba(255,255,255,.9);
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.bottom-logos-item {
+	width: 160px;
+
+}
